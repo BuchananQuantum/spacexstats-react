@@ -62,54 +62,54 @@ const Footer: React.FC<Props> = ({ buildDate }) => (
           <br />
           Made with{' '}
           <Link
-            eventLabel="Exit to GatsbyJS website"
-            to="https://www.gatsbyjs.org/"
-            title="GatsbyJS"
+            eventLabel="Exit to Ionic Enterprise Apps"
+            to="https://www.ionicenterpriseapps.com/"
+            title="Ionic Enterprise"
           >
-            GatsbyJS
+            Ionic Enterprise APIs
           </Link>
           ,{' '}
           <Link
-            eventLabel="Exit to r/spacex's API"
-            to="https://github.com/r-spacex/SpaceX-API"
-            title="r/spacex's API"
+            eventLabel="Exit to jharden.net"
+            to="https://jharden.net"
+            title="John Buchanans Jokes"
           >
-            r/spacex’s API
+            John Buchanans Jokes API
           </Link>{' '}
           and ❤.{' '}
           <Link
             eventLabel="Exit to Github Repo"
-            to="https://github.com/r-spacex/spacexstats-react"
+            to="https://github.com/deznutz"
             title="Contribute!"
           >
-            GitHub repository
+            Git Dez Nutz repository
           </Link>
         </Text>
         <Text>
-          Maintained by /u/kornelord. Contact for feedback:{' '}
+          Maintained by John Buchanan. Contact for feedback:{' '}
           <Link
             eventLabel="Exit to kornelord's profile"
-            to="https://www.reddit.com/user/kornelord"
-            title="kornelord's Reddit profile"
+            to="https://www.jharden.net"
+            title="Joel Harden Sucks Dick"
           >
-            /u/kornelord on Reddit
+            /u/joelphilly on Reddit
           </Link>
           ,{' '}
           <Link
-            eventLabel="Exit to Albéric Trancart's profile"
-            to="https://twitter.com/alberictrancart"
-            title="kornelord's Twitter profile"
+            eventLabel="joel harden . net"
+            to="https://jharden.net"
+            title="classaction matieral witnesses against joel"
           >
-            Albéric Trancart on Twitter
+            Class Action Lawsuit with SpaceX against Joel
           </Link>
           .<br />
           Domain name rehosted by{' '}
           <Link
-            eventLabel="Exit to Brandtamos' profile"
-            to="https://www.reddit.com/user/brandtamos"
-            title="Brandtamos' Reddit profile"
+            eventLabel="Exit to deznutz' profile"
+            to="https://www.reddit.com/"
+            title="Joel Likes DezNutz' Reddit profile"
           >
-            /u/brandtamos
+            /u/deznutz
           </Link>
           .
         </Text>
